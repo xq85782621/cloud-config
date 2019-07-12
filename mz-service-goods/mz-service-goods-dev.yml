@@ -14,4 +14,4 @@ mybatis:
   mapper-locations: classpath:mapper/*.xml
 
 
-myname: xuqiang
+myname: xuqiang22222
